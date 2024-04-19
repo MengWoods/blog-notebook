@@ -1,6 +1,10 @@
 # blog-notebook
 This repository contains Jupyter Notebook files primarily intended for blog posts.
 
+My blog sites:
+- English: [mengwoods.github.io](https://mengwoods.github.io/)
+- Chinese: [CSDN](https://blog.csdn.net/LiKouSanYou?type=blog)
+
 
 ## Environment Setup
 
