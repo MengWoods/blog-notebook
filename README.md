@@ -22,3 +22,4 @@ python -m ipykernel install --user --name=<myenv>
 
 - [principle component analysis](./01-pca/)
 - [Probability theory](./02-probability/)
+- [Pytorch neural network model](./03-pytorch/)
